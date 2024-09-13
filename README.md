@@ -17,6 +17,7 @@ The **Decomposition Tree** visual analyzes total sales using `AdventureWorksDW20
 - A step-by-step exploration of how different factors contribute to total sales.
 - Dynamic interaction by drilling down into specific features for a detailed analysis.
 - A clear view of which dimensions have the most significant impact on sales performance.
+  Complete Power BI Project : ![AdventureWorks Sales Analysis](https://github.com/sarax0/adventureworks-sales-analysis-powerbi)
 <img src="https://github.com/user-attachments/assets/9adb9854-b1d6-43bc-a67e-43b709415ea9" alt="Adventure-sales breakdown" width="70%">
 
 ### 3. Q&A Visual
