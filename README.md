@@ -28,9 +28,9 @@ The **Q&A** feature empowers users to:
 <img src="https://github.com/user-attachments/assets/6ebadcc3-361c-45ac-abf6-5c3ce7d3af13" alt="Housing Data Analysis with Q/A" width="70%">
 
 <div>
-  <img src="https://github.com/user-attachments/assets/edf8651c-7959-4b6f-a702-85949d5e2668" alt="Define Synonyms" width="40%">
-  <img src="https://github.com/user-attachments/assets/0e9810a1-1682-494b-a614-b22ef6734f8a" alt="Ask questions And Turn the QA into a Standard Visual" width="40%">
-  <img src="https://github.com/user-attachments/assets/56baca5a-1c51-4d2e-8d7f-c9ef49e840a7" alt="Ask questions And Turn the QA into a Standard Visual" width="40%">
+  <img src="https://github.com/user-attachments/assets/edf8651c-7959-4b6f-a702-85949d5e2668" alt="Define Synonyms" width="30%">  
+  <img src="https://github.com/user-attachments/assets/0e9810a1-1682-494b-a614-b22ef6734f8a" alt="Ask questions And Turn the QA into a Standard Visual" width="30%">  
+  <img src="https://github.com/user-attachments/assets/56baca5a-1c51-4d2e-8d7f-c9ef49e840a7" alt="Ask questions And Turn the QA into a Standard Visual" width="30%">
 </div>
 
 ## How to Use the Dashboard
